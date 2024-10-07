@@ -101,4 +101,7 @@
     <bool name="config_mediaControlsRippleByDefault">true</bool>
     <bool name="config_mediaControlsTurbulenceByDefault">true</bool>
 
+    <!-- Whether to cleanup fingerprints upon connection to the daemon and when
+         user switches -->
+    <bool name="config_cleanupUnusedFingerprints">true</bool>
 </resources>
